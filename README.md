@@ -13,7 +13,7 @@ El sistema procesa los trabajos uno por uno, simulando el comportamiento de una 
 
 ---
 
-## ⚙️ Operaciones Principales
+## Operaciones Principales
 
 La simulación implementa las operaciones básicas de una cola:
 
